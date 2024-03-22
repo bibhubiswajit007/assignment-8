@@ -30,16 +30,6 @@ int main(){
                 }
         }
     }
-    
-    // printf("Input array:\n");
-    // for (int i=0;i<a;i++){
-    //     printf("%d\t",*(p+i));
-    // }
-    // printf("\n");
-    // printf("Sorted array:\n");
-    // for (int i=0;i<a;i++){
-    //     printf("%d\t",*(q+i));
-    // }
     printf("\n");
     int r=INT_MIN,sum=0;
     printf("Number Repeated is/are :");
