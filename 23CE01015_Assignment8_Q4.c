@@ -21,7 +21,7 @@ int main(){
         *(q+i)=*(p+i);
     }
     
-    for (int i=0;i<a*1;i++){
+    for (int i=0;i<a;i++){
         for(int j=0;j<a-i-1;j++){
             if(*(q+j)>*(q+j+1)){
                 int temp=*(q+j);
